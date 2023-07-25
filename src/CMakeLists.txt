@@ -19,4 +19,4 @@ target_link_libraries(main
     teacher
 )
 
-# include_directories(${PROJECT_SOURCE_DIR}/Include)
+# include_directories(${CMAKE_SOURCE_DIR}/Include)

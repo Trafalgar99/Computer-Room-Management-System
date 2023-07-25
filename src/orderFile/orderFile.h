@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 using namespace std;
-#include "globalFile.h"
+#include <globalFile.h>
 #include <fstream>
 #include <map>
 #include <string>
